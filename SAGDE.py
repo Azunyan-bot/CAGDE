@@ -58,7 +58,6 @@ learning_rate=7.5
 batch_size=256
 
 
-#瀵煎叆鏁版嵁
 df_train=pd.read_csv(dataset+ r'/train_sparse.csv')
 df_test=pd.read_csv(dataset+ r'/test_sparse.csv')
 
